@@ -1,4 +1,4 @@
-20681187042032352
+20682838834790872
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52051,6 +52051,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+F14
+F14firing
+
+
+0
+0
+0
 F14
 f14
 
