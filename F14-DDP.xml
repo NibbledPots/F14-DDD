@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Robin Stopford\OneDrive\Documents\GitHub\F14-DDP\F14-DDP.kicad_sch</source>
+    <date>5/5/2022 6:17:51 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>F14-DDP.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b4556c4-98c7-4ef3-a210-0b6422a578dc</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65a76478-3a66-4196-860c-296ea43bbb71</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e49177f-53e1-4bcb-b7e4-b9740ed5b8e7</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8111f51-bb9a-4727-8414-3a420782c007</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a9cb27d-dc9d-4c23-b959-b093244fcd28</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4976a4ca-0a2d-45b9-bfde-f16fc8d04552</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96e58e22-d4bb-49fe-a36f-a09223e25f17</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11cccf6e-1ad9-4d8d-af89-24c2ae470585</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7a39ebd-5671-459e-a3a3-917dbb0d13b1</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c795e6bf-0422-4fa4-8664-5a8a2f6a26b3</tstamps>
+    </comp>
+    <comp ref="MX1">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b76c615-811d-4852-8dc8-0d0e9a45a036</tstamps>
+    </comp>
+    <comp ref="MX2">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d5f9ca7-ecbd-463a-bc50-ba45871e7cae</tstamps>
+    </comp>
+    <comp ref="MX3">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>315c41e1-6aff-4089-9814-4569665fcd5f</tstamps>
+    </comp>
+    <comp ref="MX4">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d8b4ed4-6421-4e97-ae93-8e6d03c5487e</tstamps>
+    </comp>
+    <comp ref="MX5">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e945de2-ef37-4b84-a3b6-c4352823dad7</tstamps>
+    </comp>
+    <comp ref="MX6">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15c70fdb-1199-41c3-8c77-625c40e8d94d</tstamps>
+    </comp>
+    <comp ref="MX7">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77216689-ebe0-488f-8874-4e6b5076d1ab</tstamps>
+    </comp>
+    <comp ref="MX8">
+      <value>MX-NoLED</value>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f84b9bf-4a39-4e50-a105-ed870c49bfc1</tstamps>
+    </comp>
+    <comp ref="MX9">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8b70f70-2023-40a1-99cc-bd23cb5d5485</tstamps>
+    </comp>
+    <comp ref="MX10">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5878175-416e-48f3-9d10-800b0fd32cfc</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117-no-mount</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52c4b2f4-61d1-4919-9d4b-e0ed5251e1e2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ProMicro</value>
+      <footprint>Keebio-Parts:ArduinoProMicro</footprint>
+      <libsource lib="keebio" part="ProMicro" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="F14-DDP.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27c6e648-e0aa-4198-9629-b6f668703e48</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keebio" part="ProMicro">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ProMicro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX0/PD3" type="input"/>
+        <pin num="2" name="RX1/PD2" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="2/PD1" type="input"/>
+        <pin num="6" name="3/PD0" type="input"/>
+        <pin num="7" name="4/PD4" type="input"/>
+        <pin num="8" name="5/PC6" type="input"/>
+        <pin num="9" name="6/PD7" type="input"/>
+        <pin num="10" name="7/PE6" type="input"/>
+        <pin num="11" name="8/PB4" type="input"/>
+        <pin num="12" name="9/PB5" type="input"/>
+        <pin num="13" name="10/PB6" type="input"/>
+        <pin num="14" name="16/PB2" type="input"/>
+        <pin num="15" name="14/PB3" type="input"/>
+        <pin num="16" name="15/PB1" type="input"/>
+        <pin num="17" name="A0/PF7" type="input"/>
+        <pin num="18" name="A1/PF6" type="input"/>
+        <pin num="19" name="A2/PF5" type="input"/>
+        <pin num="20" name="A3/PF4" type="input"/>
+        <pin num="21" name="VCC" type="input"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="RAW" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>C:\Users\Robin Stopford\OneDrive\Documents\GitHub\F14-DDP/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="keebio">
+      <uri>C:\Users\Robin Stopford\OneDrive\Documents\GitHub\F14-DDP/keebio-components/keebio.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="U1" pin="21" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="2" name="/COL0">
+      <node ref="MX1" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX4" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="A3/PF4" pintype="input"/>
+    </net>
+    <net code="3" name="/COL1">
+      <node ref="MX2" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX5" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="16/PB2" pintype="input"/>
+    </net>
+    <net code="4" name="/COL2">
+      <node ref="MX3" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX6" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX8" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="9/PB5" pintype="input"/>
+    </net>
+    <net code="5" name="/COL3">
+      <node ref="MX7" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX9" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="8/PB4" pintype="input"/>
+    </net>
+    <net code="6" name="/COL4">
+      <node ref="MX10" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="7/PE6" pintype="input"/>
+    </net>
+    <net code="7" name="/ROW0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="A1/PF6" pintype="input"/>
+    </net>
+    <net code="8" name="/ROW1">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="A0/PF7" pintype="input"/>
+    </net>
+    <net code="9" name="/ROW2">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="15/PB1" pintype="input"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX1" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX2" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX3" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX4" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX5" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX6" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX7" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX8" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX9" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX10" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="22" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="TX0/PD3" pintype="input"/>
+    </net>
+    <net code="23" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="RX1/PD2" pintype="input"/>
+    </net>
+    <net code="24" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="2/PD1" pintype="input"/>
+    </net>
+    <net code="25" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="3/PD0" pintype="input"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="4/PD4" pintype="input"/>
+    </net>
+    <net code="27" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="5/PC6" pintype="input"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="6/PD7" pintype="input"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="10/PB6" pintype="input"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="14/PB3" pintype="input"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="A2/PF5" pintype="input"/>
+    </net>
+    <net code="32" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="RAW" pintype="input"/>
+    </net>
+  </nets>
+</export>
