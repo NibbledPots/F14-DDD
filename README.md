@@ -1,6 +1,6 @@
 # F14 DDP
-PCB for the DDP/DDD of the F-14 RIO cockpit
-You'll have to build and flash it yourself, the code can be found [here](https://github.com/NibbledPots/F14DDPcode)
+* PCB for the DDP/DDD of the F-14 RIO cockpit
+* You'll have to build and flash it yourself, the code can be found [here](https://github.com/NibbledPots/F14DDPcode)
 
 Includes:
 RDR, IR, and IFF buttons
